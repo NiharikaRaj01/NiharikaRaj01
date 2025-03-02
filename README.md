@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NiharikaRaj01
-- 👀 I’m interested in mostly IOT and mechatronics
-- 🌱 I’m currently learning electronics engineering
-- 💞️ I’m looking to collaborate on IOT intermediate projects
+- 👀 I’m interested in IoT, Mechatronics, Embedded Systems, Computer Vision, and Machine Learning
+- 🌱 I’m currently pursuing a Master's degree in Signal Processing and Machine Learning, and I have a Bachelor's in Electronics Engineering
+- 💞️ I’m looking to collaborate on Embedded, Computer Vision, and Machine Learning projects
 
 
 <!---
